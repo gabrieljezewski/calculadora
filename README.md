@@ -1,4 +1,5 @@
-Calculadora desenvolvida no curso da Cod3r. https://www.udemy.com/course/curso-web/
+# Calculadora
+Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/
 
 # Tecnologias
 
