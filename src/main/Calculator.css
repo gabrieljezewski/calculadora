@@ -1,0 +1,10 @@
+.calculator {
+    height: 320px;
+    width: 235px;
+    border-radius: 5px;
+    overflow: hidden;                                   /*  tudo que estiver além da calc, será escondido */
+    
+    display: grid;
+    grid-template-columns: repeat(4, 25%);              /* 4 colunas, ocupando 25% */
+    grid-template-rows: 1fr 48px 48px 48px 48px 48px;   /* criei 5 linhas, a primeira ocupando todo espaço, e as 4 de baixo 48px cada */
+}
