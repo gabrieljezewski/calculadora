@@ -1,7 +1,7 @@
-# Calculadora
+## Calculadora
 Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/
 
-# Tecnologias
+## Tecnologias
 
 - HTML
 - CSS
@@ -9,7 +9,7 @@ Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/
 - React
 - JSX
 
-# Para executar o projeto
+## Para executar o projeto
 Execute em seu terminal os seguintes comandos:
 
 npm i
