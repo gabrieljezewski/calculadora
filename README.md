@@ -1,19 +1,30 @@
-## Calculadora
-Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/
+<h1 align="center">Calculadora</h1>
+<p>Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/.</p>
 
-## Tecnologias
+## Pré- requisitos
 
-- HTML
-- CSS
-- JavaScript
-- React
-- JSX
+Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a>.
 
-## Para executar o projeto
-Execute em seu terminal os seguintes comandos:
+## Rodando a aplicação
 
-npm i
-Para instalar o "Node_Modules".
+```bash
+# Para baixar o projeto siga as instruções abaixo:
+$ git clone https://github.com/gabrieljezewski/calculadora.git
+```
 
-npm start
-Após executar os comandos abra http://localhost:3000 para visualizar em seu navegador o projeto.
+```bash
+# Instale as dependências e inicie o servidor:
+$ npm i
+$ npm start
+```
+Após isso, no console do terminal irá apresentar em qual url:porta o servidor estará rodando, ex: http://localhost:3000, basta copiar e acessar este endereço em seu browser.
+
+  ## Tecnologias
+
+- [React](https://pt-br.reactjs.org/)
+- [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+Made with by <a href="https://www.linkedin.com/in/gabrieljezewski/">Gabriel Jezewski</a>.
+
