@@ -3,7 +3,7 @@
 
 ## Pré- requisitos
 
-Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode</a>.
+Antes de começar, você precisa ter instalado em sua máquina as seguintes ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>. Além disso é bom ter um editor para trabalhar com o código como <a href="https://code.visualstudio.com/">VSCode.</a>
 
 ## Rodando a aplicação
 
@@ -27,4 +27,3 @@ Após isso, no console do terminal irá apresentar em qual url:porta o servidor 
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 Made with by <a href="https://www.linkedin.com/in/gabrieljezewski/">Gabriel Jezewski</a>.
-
