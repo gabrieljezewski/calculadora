@@ -22,7 +22,6 @@ Após isso, no console do terminal irá apresentar em qual url:porta o servidor 
   ## Tecnologias
 
 - [React](https://pt-br.reactjs.org/)
-- [JSX](https://pt-br.reactjs.org/docs/introducing-jsx.html)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
