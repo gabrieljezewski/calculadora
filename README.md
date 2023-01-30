@@ -24,5 +24,3 @@ Após isso, no console do terminal irá apresentar em qual url:porta o servidor 
 - [React](https://pt-br.reactjs.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
-Made with by <a href="https://www.linkedin.com/in/gabrieljezewski/">Gabriel Jezewski</a>.
