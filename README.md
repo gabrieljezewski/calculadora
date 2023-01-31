@@ -1,4 +1,4 @@
-<h1 align="center">Calculadora</h1>
+<h1>Calculadora</h1>
 <p>Projeto desenvolvido no curso da Cod3r. https://www.udemy.com/course/curso-web/.</p>
 
 ## Pré- requisitos
